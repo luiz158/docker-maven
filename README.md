@@ -1,6 +1,6 @@
 # Gradle Executable Container
 
-This docker image includes Oracle Java 7 and Maven 3.0.5 configured with Maven as the entrypoint.
+This docker image includes OpenJDK 8 and Maven 3.0.5 configured with Maven as the entrypoint.
 
 ## Usage
 
