@@ -1,4 +1,4 @@
-FROM dockerfile/java:oracle-java7
+FROM java:8-jdk
 MAINTAINER Nicholas Iaquinto <nickiaq@gmail.com>
 
 RUN apt-get update && \
